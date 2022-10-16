@@ -1,5 +1,5 @@
 # Implementation of a Contextual Chatbot in PyTorch.  
-Simple chatbot implementation with PyTorch. 
+Simple chatbot implementation with PyTorch. Created By Mr SANTHOSH VEGAS(GDG)
 
 - The implementation should be easy to follow for beginners and provide a basic understanding of chatbots.
 - The implementation is straightforward with a Feed Forward Neural net with 2 hidden layers.
