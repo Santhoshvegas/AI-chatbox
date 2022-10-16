@@ -1,0 +1,2 @@
+# AI-chatbox
+LICENSE
